@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Gugi');
+
+.main-page{font-family: 'Gugi', cursive;}
+
+.avatarstyle img{
+
+	height:200px;width:200px;
+}
+.smb-btn{
+border: none;
+padding: 10px;
+width: 120px;
+font-size: 15px;
+border-radius: 5px;
+background-color: #a463f2;
+font-weight:700;
+margin-top:20px; }
